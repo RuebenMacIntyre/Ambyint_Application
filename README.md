@@ -1,7 +1,7 @@
 # Ambyint_Application
 Reading sensor data
 
-First, please ignore the Ambyint Assignment folder, it contains the older C# versions of the executables and source files.
+First, please ignore the Ambyint Assignment folder, it contains the older C# versions of the executables and source files. Also ignore the output file, it is not needed and will be created by the ReadFileContinuously executable.
 
 There are 4 executables and associated C++ source files. Copy all of the executables to the same folder.  Add your copy of the data file to this folder. I could not include it because it was too large for GitHub.
 
